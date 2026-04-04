@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pranya15/leetCode/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Pranya15/leetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
