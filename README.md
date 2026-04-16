@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Pranya15/leetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pranya15/leetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Pranya15/leetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Pranya15/leetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Pranya15/leetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Pranya15/leetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranya15/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -84,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Pranya15/leetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pranya15/leetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pranya15/leetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Pranya15/leetCode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Pranya15/leetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
