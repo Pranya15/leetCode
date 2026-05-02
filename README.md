@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Pranya15/leetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Pranya15/leetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Pranya15/leetCode/tree/master/0217-contains-duplicate) |
+| [0567-permutation-in-string](https://github.com/Pranya15/leetCode/tree/master/0567-permutation-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Pranya15/leetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Pranya15/leetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Pranya15/leetCode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Pranya15/leetCode/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -112,9 +114,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Pranya15/leetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Pranya15/leetCode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Pranya15/leetCode/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Pranya15/leetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Pranya15/leetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Pranya15/leetCode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
