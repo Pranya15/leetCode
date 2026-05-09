@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Pranya15/leetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Pranya15/leetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranya15/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Pranya15/leetCode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Pranya15/leetCode/tree/master/0152-maximum-product-subarray) |
 ## Math
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Pranya15/leetCode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Pranya15/leetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Pranya15/leetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Pranya15/leetCode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Pranya15/leetCode/tree/master/0443-string-compression) |
@@ -149,4 +151,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Pranya15/leetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Pranya15/leetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Pranya15/leetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Pranya15/leetCode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
