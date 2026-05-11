@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Pranya15/leetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Pranya15/leetCode/tree/master/0050-powx-n) |
 ## Two Pointers
 |  |
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/Pranya15/leetCode/tree/master/2596-check-knight-tour-configuration) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Pranya15/leetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
