@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Pranya15/leetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Pranya15/leetCode/tree/master/0100-same-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Pranya15/leetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0572-subtree-of-another-tree](https://github.com/Pranya15/leetCode/tree/master/0572-subtree-of-another-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Pranya15/leetCode/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -250,15 +251,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pranya15/leetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Pranya15/leetCode/tree/master/0100-same-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Pranya15/leetCode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pranya15/leetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Pranya15/leetCode/tree/master/0100-same-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Pranya15/leetCode/tree/master/0572-subtree-of-another-tree) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Pranya15/leetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Pranya15/leetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pranya15/leetCode/tree/master/0387-first-unique-character-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Pranya15/leetCode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Pranya15/leetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
