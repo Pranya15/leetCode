@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Pranya15/leetCode/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pranya15/leetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Pranya15/leetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0226-invert-binary-tree](https://github.com/Pranya15/leetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Pranya15/leetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pranya15/leetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Pranya15/leetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Pranya15/leetCode/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Pranya15/leetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0226-invert-binary-tree](https://github.com/Pranya15/leetCode/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Pranya15/leetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Pranya15/leetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2596-check-knight-tour-configuration](https://github.com/Pranya15/leetCode/tree/master/2596-check-knight-tour-configuration) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pranya15/leetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Pranya15/leetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/Pranya15/leetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0226-invert-binary-tree](https://github.com/Pranya15/leetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Pranya15/leetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pranya15/leetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pranya15/leetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pranya15/leetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Pranya15/leetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/Pranya15/leetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0226-invert-binary-tree](https://github.com/Pranya15/leetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Pranya15/leetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pranya15/leetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pranya15/leetCode/tree/master/0543-diameter-of-binary-tree) |
