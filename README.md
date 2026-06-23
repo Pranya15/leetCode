@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Pranya15/leetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Pranya15/leetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pranya15/leetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0994-rotting-oranges](https://github.com/Pranya15/leetCode/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/Pranya15/leetCode/tree/master/2596-check-knight-tour-configuration) |
 ## Hash Table
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Pranya15/leetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Pranya15/leetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Pranya15/leetCode/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Pranya15/leetCode/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/Pranya15/leetCode/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Pranya15/leetCode/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Pranya15/leetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Pranya15/leetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0994-rotting-oranges](https://github.com/Pranya15/leetCode/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/Pranya15/leetCode/tree/master/2596-check-knight-tour-configuration) |
 ## Linked List
 |  |
