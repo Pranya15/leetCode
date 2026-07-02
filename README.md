@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Pranya15/leetCode/tree/master/0733-flood-fill) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pranya15/leetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/Pranya15/leetCode/tree/master/0994-rotting-oranges) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Pranya15/leetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2596-check-knight-tour-configuration](https://github.com/Pranya15/leetCode/tree/master/2596-check-knight-tour-configuration) |
 ## Hash Table
 |  |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Pranya15/leetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Pranya15/leetCode/tree/master/0547-number-of-provinces) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Pranya15/leetCode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
 |  |
 | ------- |
@@ -381,9 +383,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Pranya15/leetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Pranya15/leetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Pranya15/leetCode/tree/master/0547-number-of-provinces) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Pranya15/leetCode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Pranya15/leetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Pranya15/leetCode/tree/master/0210-course-schedule-ii) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Pranya15/leetCode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
