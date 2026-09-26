@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Pranya15/leetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Pranya15/leetCode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Pranya15/leetCode/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/Pranya15/leetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pranya15/leetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/Pranya15/leetCode/tree/master/0994-rotting-oranges) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Pranya15/leetCode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Pranya15/leetCode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Pranya15/leetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Pranya15/leetCode/tree/master/0198-house-robber) |
+| [0746-min-cost-climbing-stairs](https://github.com/Pranya15/leetCode/tree/master/0746-min-cost-climbing-stairs) |
 ## Math
 |  |
 | ------- |
